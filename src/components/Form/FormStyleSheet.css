@@ -1,0 +1,31 @@
+.MainForm {
+    background-color: #ffffff;
+}
+
+.DF-AIC-JCC {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.FormTitle {
+    font-weight: 700;
+    font-size: x-large;
+    color: #156bf1;
+}
+
+.FormMessage {
+    color: #2169e8;
+    font-size: medium;
+}
+
+.imgStyle {
+    max-width: 100%;
+    height: auto;
+}
+
+.AvatarSectionImg {
+    padding: 5px;
+    border-radius: 50%;
+    max-width: 20%;
+}
